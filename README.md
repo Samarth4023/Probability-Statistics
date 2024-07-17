@@ -4,13 +4,12 @@ Welcome to the **Probability & Statistics** repository! This repository is dedic
 
 ## 📚 Table of Contents
 
-1. [📜 Introduction](#introduction)
-2. [📁 Repository Structure](#repository-structure)
-3. [💻 Installation](#installation)
-4. [🚀 Usage](#usage)
-5. [🤝 Contributing](#contributing)
-6. [📜 License](#license)
-7. [📬 Contact](#contact)
+1. [📜 Introduction](#-introduction)
+2. [📁 Repository Structure](#-repository-structure)
+3. [💻 Installation](#-installation)
+4. [🚀 Usage](#-usage)
+5. [🤝 Contributing](#-contributing)
+6. [📬 Contact](#-contact)
 
 ## 📜 Introduction
 
@@ -30,7 +29,7 @@ The repository is organized into the following directories:
 To get started, clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/Samarth4023/probability-statistics.git
+git clone https://github.com/Samarth4023/Probability-Statistics.git
 ```
 
 ## 🚀 Usage
